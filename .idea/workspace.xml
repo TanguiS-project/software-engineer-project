@@ -4,104 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b26ca235-4d43-401e-bfdc-82fb9bf80e45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/Collision.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/PassedBuoy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/Stopwatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/Buoy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/GameMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/Sand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/Tile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/Water.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/wind/WeatherStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/wind/WeatherStationProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/wind/WeatherStationServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/wind/WindData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/map/wind/WindDirection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/player/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/player/Score.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/player/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/DataPolar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/ShipModel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/ShipModel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/ShipModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/builder/ConcreteShipBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/builder/ShipBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/builder/ShipDirector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/builder/builderType/TypeCrew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/builder/builderType/TypeSail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/builder/builderType/TypeShip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/command/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/command/Move.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/command/MoveLeft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/command/MoveRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/crew/Crew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/crew/CrewDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/crew/MaxCrewDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/crew/NormalCrew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/sail/LargeSailDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/sail/NormalSail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/sail/Sail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/model/ship/sail/SailDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/presenter/GamePresenter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/presenter/IGameView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/presenter/ILoginView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/presenter/LoginPresenter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/presenter/UserAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/LoginView$LoginViewFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/LoginView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/BuoyView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/GameView$GameViewFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/GameView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/MapView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/ShipView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/StopwatchItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/StopwatchList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/StopwatchView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/TileView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/ensicaen/regate/mvp/view/game/WindView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/MessageBundle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/MessageBundle_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/datapolar/polaire-figaro.pol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/datapolar/polaire-oceanis-37.pol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/background/bg_test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/background/chrono_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/boats/Figaro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/boats/Oceanis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/boats/big_boat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/boats/small_boat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/map/flag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/map/flag_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/map/sand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/images/map/water.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/maps/carte1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/maps/carte2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/view/LoginDialog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/view/LoginDialog.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/view/SpotMap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/ensicaen/regate/mvp/view/SpotMap.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-    </list>
+    <list default="true" id="b26ca235-4d43-401e-bfdc-82fb9bf80e45" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669497478341</updated>
       <workItem from="1669497480899" duration="418000" />
-      <workItem from="1669497924432" duration="656000" />
+      <workItem from="1669497924432" duration="720000" />
     </task>
     <servers />
   </component>
